@@ -3,6 +3,10 @@ published: true
 title: Hello world
 layout: post
 ---
-This is a test post for my new blog. The blog is hosted on [Github Pages](http://pages.github.com/) which means the source is available at [github.com/miyagui/miyagui.github.io](http://github.com/miyagui/miyagui.github.io). Be nice. Give credit. Share, don't steal :)
+This is my first post on this blog.
 
-By the way, this blog is powered by [tinypress.co](https://tinypress.co).
+I'm going to keep it very spread and casual. I'll be writing english, I'll cast all my might to write it as clearly as I possibly can. I'm not a native speaker but I want to start getting comfortable writing in english.
+
+I'm Miya and this is the `start`.   
+
+And by the way, this blog is powered by [tinypress.co](https://tinypress.co).
